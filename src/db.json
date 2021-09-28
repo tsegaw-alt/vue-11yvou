@@ -1,0 +1,67 @@
+{
+  "events": [
+    {
+      "id": 1,
+
+      "eventName": "Understanding color theory: the color wheel and findi...",
+      "imageUrl": "img/icons/1.jpg",
+      "eventDate": "21 Sep, 2020",
+      "ticketsAvailable": 0
+    },
+    {
+      "id": 2,
+
+      "eventName": "RGD Design Thinkers",
+      "imageUrl": "img/icons/2.jpg",
+      "eventDate": "21 Sep, 2020",
+      "ticketsAvailable": 0
+    },
+    {
+      "id": 3,
+      "eventName": "What Design Can Do",
+      "imageUrl": "img/icons/3.jpg",
+      "eventDate": "21 Sep, 2020",
+      "ticketsAvailable": 12
+    },
+    {
+      "id": 4,
+
+      "eventName": "Perth UX Camp",
+      "imageUrl": "img/icons/4.jpg",
+      "eventDate": "21 Sep, 2020",
+      "ticketsAvailable": 23
+    },
+    {
+      "id": 5,
+
+      "eventName": "Sofia Design",
+      "imageUrl": "img/icons/5.jpg",
+      "eventDate": "21 Sep, 2020",
+      "ticketsAvailable": 13
+    },
+    {
+      "id": 6,
+
+      "eventName": "TYPO Berlin",
+      "imageUrl": "img/icons/6.jpg",
+      "eventDate": "21 Sep, 2020",
+      "ticketsAvailable": 4
+    },
+    {
+      "id": 7,
+
+      "eventName": "AIGA Design Conference",
+      "imageUrl": "img/icons/7.jpg",
+      "eventDate": "221 Sep, 2020",
+      "ticketsAvailable": 5
+    },
+    {
+      "id": 8,
+
+      "eventName": "AIGA Design Conference",
+      "imageUrl": "img/icons/8.jpg",
+      "eventDate": "21 Sep, 2020",
+      "ticketsAvailable": 5
+    }
+  ]
+}
